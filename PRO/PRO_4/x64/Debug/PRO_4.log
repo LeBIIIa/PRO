@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\LeBwa\source\repos\PRO\PRO_4\Main.cpp(325,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\LeBwa\source\repos\PRO\PRO_4\Main.cpp(340,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LeBwa\source\repos\PRO\PRO_4\Main.cpp(335,12): warning C4101: 'Start': unreferenced local variable
+C:\Users\LeBwa\source\repos\PRO\PRO_4\Main.cpp(335,19): warning C4101: 'Finish': unreferenced local variable
+C:\Users\LeBwa\source\repos\PRO\PRO_4\Main.cpp(335,27): warning C4101: 'Duration': unreferenced local variable
+  PRO_4.vcxproj -> C:\Users\LeBwa\source\repos\PRO\x64\Debug\PRO_4.exe

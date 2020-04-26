@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\LeBwa\source\repos\PRO\PRO\Source.cpp(428,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PRO.vcxproj -> C:\Users\LeBwa\source\repos\PRO\x64\Debug\PRO_1.exe

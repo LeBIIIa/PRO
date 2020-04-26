@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(35,20): warning C4101: 'k': unreferenced local variable
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(60,20): warning C4101: 'k': unreferenced local variable
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(107,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(195,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(201,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(213,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(321,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LeBwa\source\repos\PRO\PRO_3\Source.cpp(364,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PRO_3.vcxproj -> C:\Users\LeBwa\source\repos\PRO\x64\Debug\PRO_3.exe
